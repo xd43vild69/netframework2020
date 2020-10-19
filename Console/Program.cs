@@ -21,7 +21,7 @@ namespace Console
             //OperateEF();
 
             //ReadFile
-            //OperateIOMemorize();
+            OperateIOMemorize();
 
             //Async
             //await OperateAsyncMethod();
