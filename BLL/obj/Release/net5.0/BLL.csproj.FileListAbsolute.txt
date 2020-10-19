@@ -1,0 +1,10 @@
+C:\Users\D13\Desktop\Angular\Globant\BLL\bin\Release\net5.0\BLL.deps.json
+C:\Users\D13\Desktop\Angular\Globant\BLL\bin\Release\net5.0\BLL.dll
+C:\Users\D13\Desktop\Angular\Globant\BLL\bin\Release\net5.0\BLL.pdb
+C:\Users\D13\Desktop\Angular\Globant\BLL\obj\Release\net5.0\BLL.csprojAssemblyReference.cache
+C:\Users\D13\Desktop\Angular\Globant\BLL\obj\Release\net5.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\D13\Desktop\Angular\Globant\BLL\obj\Release\net5.0\BLL.AssemblyInfoInputs.cache
+C:\Users\D13\Desktop\Angular\Globant\BLL\obj\Release\net5.0\BLL.AssemblyInfo.cs
+C:\Users\D13\Desktop\Angular\Globant\BLL\obj\Release\net5.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\D13\Desktop\Angular\Globant\BLL\obj\Release\net5.0\BLL.dll
+C:\Users\D13\Desktop\Angular\Globant\BLL\obj\Release\net5.0\BLL.pdb
