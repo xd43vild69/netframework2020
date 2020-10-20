@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Cors;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -28,6 +29,13 @@ namespace WebApi.Controllers
                 definition = Summaries[rng.Next(Summaries.Length)]
             })
             .ToArray();
+        }
+        
+        [HttpPost]
+        [EnableCors]
+        public int Post(Concept concepts)
+        {
+            return 13;
         }
 
     }
