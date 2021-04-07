@@ -1,15 +1,10 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading;
 using System.Threading.Tasks;
 
 namespace BLL
 {
     public class AsyncMethods
     {
-
         public async Task RunAsyncMethod()
         {
             _ = longTask1();
@@ -17,7 +12,6 @@ namespace BLL
             _ = longTask3();
             await Task.Delay(2000);
         }
-
 
         private async Task longTask1()
         {
@@ -36,6 +30,5 @@ namespace BLL
             await Task.Delay(1000);
             Console.WriteLine("long task 3");
         }
-
     }
 }

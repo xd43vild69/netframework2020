@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\D13\\Desktop\\Angular\\netframework\\WebApi\\WebApi.csproj": {}
+    "C:\\Users\\d13-intel\\source\\repos\\xd43vild69\\netframework2020\\WebApi\\WebApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\D13\\Desktop\\Angular\\netframework\\WebApi\\WebApi.csproj": {
+    "C:\\Users\\d13-intel\\source\\repos\\xd43vild69\\netframework2020\\WebApi\\WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\D13\\Desktop\\Angular\\netframework\\WebApi\\WebApi.csproj",
+        "projectUniqueName": "C:\\Users\\d13-intel\\source\\repos\\xd43vild69\\netframework2020\\WebApi\\WebApi.csproj",
         "projectName": "WebApi",
-        "projectPath": "C:\\Users\\D13\\Desktop\\Angular\\netframework\\WebApi\\WebApi.csproj",
-        "packagesPath": "C:\\Users\\D13\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\D13\\Desktop\\Angular\\netframework\\WebApi\\obj\\",
+        "projectPath": "C:\\Users\\d13-intel\\source\\repos\\xd43vild69\\netframework2020\\WebApi\\WebApi.csproj",
+        "packagesPath": "C:\\Users\\d13-intel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\d13-intel\\source\\repos\\xd43vild69\\netframework2020\\WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\D13\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\d13-intel\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,8 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://packages.nuget.org/": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
@@ -56,12 +55,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[3.1.2, 3.1.2]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -70,7 +63,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100-preview.8.20417.9\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

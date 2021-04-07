@@ -7,7 +7,6 @@ using System.Threading.Tasks;
 
 namespace BLL.Delegates
 {
-
     delegate void TestDelegate(string name);
 
     public class Delegate
@@ -29,8 +28,6 @@ namespace BLL.Delegates
 
         public void RunBasicDelegate()
         {
-
-
             TestDelegate td = new TestDelegate(NewFunction);
             td("value 1");
 
@@ -62,7 +59,6 @@ namespace BLL.Delegates
             {
                 Console.WriteLine("Call predicate delegate with a lambda");
             }
-
         }
 
         public void RunActionDelegate()
@@ -70,6 +66,5 @@ namespace BLL.Delegates
             Action<string> TestActionDelegate = NewFunction;
             TestActionDelegate("Action");
         }
-
     }
 }

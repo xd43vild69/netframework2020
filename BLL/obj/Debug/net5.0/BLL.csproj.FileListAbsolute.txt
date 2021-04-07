@@ -17,3 +17,14 @@ C:\Users\D13\Desktop\Angular\netframework\BLL\obj\Debug\net5.0\BLL.AssemblyInfo.
 C:\Users\D13\Desktop\Angular\netframework\BLL\obj\Debug\net5.0\BLL.csproj.CoreCompileInputs.cache
 C:\Users\D13\Desktop\Angular\netframework\BLL\obj\Debug\net5.0\BLL.dll
 C:\Users\D13\Desktop\Angular\netframework\BLL\obj\Debug\net5.0\BLL.pdb
+C:\Users\d13-intel\source\repos\xd43vild69\netframework2020\BLL\bin\Debug\net5.0\BLL.deps.json
+C:\Users\d13-intel\source\repos\xd43vild69\netframework2020\BLL\bin\Debug\net5.0\BLL.dll
+C:\Users\d13-intel\source\repos\xd43vild69\netframework2020\BLL\bin\Debug\net5.0\ref\BLL.dll
+C:\Users\d13-intel\source\repos\xd43vild69\netframework2020\BLL\bin\Debug\net5.0\BLL.pdb
+C:\Users\d13-intel\source\repos\xd43vild69\netframework2020\BLL\obj\Debug\net5.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d13-intel\source\repos\xd43vild69\netframework2020\BLL\obj\Debug\net5.0\BLL.AssemblyInfoInputs.cache
+C:\Users\d13-intel\source\repos\xd43vild69\netframework2020\BLL\obj\Debug\net5.0\BLL.AssemblyInfo.cs
+C:\Users\d13-intel\source\repos\xd43vild69\netframework2020\BLL\obj\Debug\net5.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\d13-intel\source\repos\xd43vild69\netframework2020\BLL\obj\Debug\net5.0\BLL.dll
+C:\Users\d13-intel\source\repos\xd43vild69\netframework2020\BLL\obj\Debug\net5.0\ref\BLL.dll
+C:\Users\d13-intel\source\repos\xd43vild69\netframework2020\BLL\obj\Debug\net5.0\BLL.pdb

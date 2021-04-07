@@ -1,15 +1,13 @@
 ﻿using BLL;
-using BLL.Delegates;
 using Console.IO;
 using System;
-using System.Runtime.Intrinsics.Arm;
 using System.Threading.Tasks;
 
 namespace Console
 {
-    class Program
+    internal class Program
     {
-         static async Task Main(string[] args)
+        private static async Task Main(string[] args)
         {
             //Extension Methods
             //OperateExtensionMethods();
@@ -59,19 +57,17 @@ namespace Console
         {
             BLL.Delegates.Delegate d = new BLL.Delegates.Delegate();
             d.RunBasicDelegate();
-            d.RunFuncDelegate();
+            d.RunFuncDelegate();    
             d.RunActionDelegate();
             d.RunPredicateDelegate();
         }
 
         public static void OperateEF()
         {
-
             var newName = "D13 " + new Random().Next().ToString();
             int newId = 9;
 
             OperationsEF operationEF = new OperationsEF();
-
 
             operationEF.insertMtoM();
 
@@ -92,7 +88,5 @@ namespace Console
 
             // operationEF.delete(person);
         }
-
-
     }
 }
