@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BLL._base._class.methods
 {
-    public class OverrideOverload
+    public class _Overload
     {
     }
 }
