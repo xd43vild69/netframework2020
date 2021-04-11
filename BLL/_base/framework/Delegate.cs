@@ -1,13 +1,8 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Runtime.InteropServices.ComTypes;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace BLL.Delegates
 {
-    delegate void TestDelegate(string name);
+    internal delegate void TestDelegate(string name);
 
     public class Delegate
     {
@@ -31,7 +26,7 @@ namespace BLL.Delegates
             TestDelegate td = new TestDelegate(NewFunction);
             td("value 1");
 
-            // with an anonimous function
+            // with an anonymous function
             td = delegate (string value2) { Console.WriteLine($"call delegate anonymous {value2}"); };
             td("value 2");
 
@@ -49,11 +44,12 @@ namespace BLL.Delegates
         public void RunPredicateDelegate()
         {
             Predicate<int> predicate1 = IsGreater;
-            if(!predicate1(1)){
+            if (!predicate1(1))
+            {
                 Console.WriteLine("Call predicate delegate");
             }
 
-            predicate1 = name => 2 >1 ;
+            predicate1 = name => 2 > 1;
 
             if (predicate1(1))
             {

@@ -1,5 +1,6 @@
 ﻿using BLL;
 using Console.IO;
+using Console.Manager;
 using System;
 using System.Threading.Tasks;
 
@@ -9,6 +10,11 @@ namespace Console
     {
         private static async Task Main(string[] args)
         {
+
+            ModifierManager mm = new ModifierManager();
+            mm.CallPublicClass();
+            mm.CallPublicSonClass();
+
             //Extension Methods
             //OperateExtensionMethods();
 

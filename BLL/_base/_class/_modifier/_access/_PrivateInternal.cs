@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BLL._base._class._modifier._access
 {
-    private internal class _PrivateInternal
+    internal class _PrivateInternal
     {
     }
 }

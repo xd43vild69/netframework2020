@@ -28,3 +28,4 @@ C:\Users\d13-intel\source\repos\xd43vild69\netframework2020\BLL\obj\Debug\net5.0
 C:\Users\d13-intel\source\repos\xd43vild69\netframework2020\BLL\obj\Debug\net5.0\BLL.dll
 C:\Users\d13-intel\source\repos\xd43vild69\netframework2020\BLL\obj\Debug\net5.0\ref\BLL.dll
 C:\Users\d13-intel\source\repos\xd43vild69\netframework2020\BLL\obj\Debug\net5.0\BLL.pdb
+C:\Users\d13-intel\source\repos\xd43vild69\netframework2020\BLL\obj\Debug\net5.0\BLL.csprojAssemblyReference.cache

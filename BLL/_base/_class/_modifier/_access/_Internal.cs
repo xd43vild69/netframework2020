@@ -26,11 +26,11 @@ namespace BLL._base._class._modifier._access
             {
                 Console.WriteLine("PrivateMethod into a public class");
             }
+
             protected void _ProtectedMethod()
             {
                 Console.WriteLine("ProtectedMethod into a public class");
             }
         }
-
     }
 }
