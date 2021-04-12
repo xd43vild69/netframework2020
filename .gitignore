@@ -1,4 +1,7 @@
-#to ignore files
+#to ignore files here
+
 *.pdb
+
 *.dll
+
 *.cache
