@@ -10,7 +10,7 @@ namespace UT
 {
 
     [TestClass]
-    public class Override_Should
+    public class OverrideOverload_Should
     {
 
         [TestMethod]
@@ -21,6 +21,19 @@ namespace UT
 
             //Act
             om.CallOverrideExample();
+
+            //Assert
+            // No assert yet
+        }
+
+        [TestMethod]
+        public void OverloadTest_Should()
+        {
+            //Arrage
+            OverloadManager om = new OverloadManager();
+
+            //Act
+            om.CallOverLoadManager();
 
             //Assert
             // No assert yet

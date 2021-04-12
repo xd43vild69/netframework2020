@@ -8,5 +8,14 @@ namespace BLL._base._class.methods
 {
     public class _Overload
     {
+        public void CallOverload()
+        {
+            Console.WriteLine("OverLoadBasic");
+        }
+
+        public void CallOverload(string message)
+        {
+            Console.WriteLine($"OverLoadBasic {message}");
+        }
     }
 }
