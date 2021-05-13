@@ -5,17 +5,11 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Remove="DesingPatterns\**" />
-    <Compile Remove="Linq\**" />
-    <EmbeddedResource Remove="DesingPatterns\**" />
-    <EmbeddedResource Remove="Linq\**" />
-    <None Remove="DesingPatterns\**" />
-    <None Remove="Linq\**" />
+
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="_base\framework\linq\" />
-    <Folder Include="design_patterns\" />
+
   </ItemGroup>
 
   <ItemGroup>

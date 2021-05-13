@@ -5,8 +5,18 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace BLL.Arrays
-{
-    class LinkedlList
+{    
+    public class LinkedlList
     {
+        private readonly string[] words = {"aaa", "bbb", "ccc", "ddd", "eee"};
+        private readonly LinkedlList<string> ll;
+
+        public LinkedlList()
+        {
+            ll = new LinkedlList<string>(words);
+            ll.removeFirst();        
+        }
+
+
     }
 }
