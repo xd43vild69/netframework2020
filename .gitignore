@@ -1,7 +1,5 @@
 #to ignore files here
-
+# remove from cache : git rm --cached sites/default/settings.php
 *.pdb
-
 *.dll
-
 *.cache
